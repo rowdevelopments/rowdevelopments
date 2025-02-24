@@ -6,7 +6,7 @@
 Hello! We are the Row Development team, here to provide the best experience to the FiveM community. Our team of four is skilled in Lua, Python, C#, CSS, HTML, and JavaScript. With our innovative and high-quality solutions, we develop unique projects for FiveM servers. We highly value player feedback and continuously evolve based on their needs. If you're looking for a high-quality and reliable FiveM server, Row Development is the right choice for you!
 
 ## Documentation
-https://docs.rowdevelopment.net/
+https://rowdevelopment.gitbook.io/docs
 
 ## Join the community
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rowdev)
