@@ -15,5 +15,5 @@ https://docs.qbcore.org/
 
 ## 👨‍💻 Meet the team
 <p align="center">
- <img width="420" src=https://github-readme-stats.vercel.app/api?username=GhzGarage&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false>
+ <img width="520" src=https://github-readme-stats.vercel.app/api?username=rowdevelopments&count_private=true&show_icons=true&title_color=e83c49&text_color=ffffff&icon_color=e83c49&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false>
 </p>
